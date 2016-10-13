@@ -1,0 +1,17 @@
+//Utterances
+GetNewFactIntent a fact
+GetNewFactIntent for a fact
+GetNewFactIntent a coffee fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a coffee fact
+GetNewFactIntent give me a fact
+GetNewFactIntent to give me a fact
+GetNewFactIntent give me a coffee fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a coffee trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a coffee trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some coffee information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
