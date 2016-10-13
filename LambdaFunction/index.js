@@ -1,11 +1,10 @@
 'use strict';
 var Alexa = require('alexa-sdk');
-
 var APP_ID = undefined; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
 var SKILL_NAME = 'Space Facts';
 
 /**
- * Array containing space facts.
+ * Array containing coffee facts.
  */
 var FACTS = [
     "Legend has it a 9th-century Ethiopian goat herder discovered coffee by accident when he noticed how crazy the beans were making his goats.",
